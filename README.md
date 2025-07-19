@@ -1,6 +1,6 @@
 # Bruno Bertuzzi    
 
-**`Desenvolvedor Back-end`**
+**`Software Developer`**
 
 <h4 align="left">Linguagens e Tecnologias</h4>
 
